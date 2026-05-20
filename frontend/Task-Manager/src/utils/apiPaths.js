@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://employee-task-management-system-iryh.onrender.com";
 // utils/apiPaths.js
 export const API_PATHS = {
     AUTH: {
